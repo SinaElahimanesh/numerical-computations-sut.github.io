@@ -32,18 +32,7 @@ permalink: /resources/
         <br><hr><br>
         
          <div class="wrap">
-            <h2 class="standard-title" id="Assignments">Exams</h2>
-                <p> See <a href="{{site.url}}/{{site.baseurl}}/syllabus">Syllabus</a> for more information.</p>
-            <h3 id="Lecture Slides">1401-2</h3>
-            <ul class="lists two-col animate-3" resource="homeworks">
-                {% for item in site.data.resources.exam.exams14012 %}
-                {% if item.link =='' %}
-                <li>{{item.name}}</li>
-                {% else %}
-                <li><a href="{{item.link}}" target="_blank">{{item.name}}</a></li>
-                {%endif%}
-                {% endfor %}
-            </ul>
+            
             
              <h3 id="Lecture Slides">1401-1</h3>
             <ul class="lists two-col animate-3" resource="homeworks">
