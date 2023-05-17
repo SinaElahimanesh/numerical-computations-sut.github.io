@@ -3,4 +3,9 @@ instructor:
   github: https://scholar.google.com/citations?user=XAta_TgAAAAJ&hl=en
   email: s.hosseinghorban@ipm.ir
   img: assets/instructor.jpg
-  class: 'Sundays, Tuesdays / 6:00 PM - 7:30 PM'
+  class: 'Sundays, Tuesdays / 04:30 PM - 06:00 PM'
+- name: Hamid Sarbazi Azad
+  github: https://scholar.google.com/citations?user=9OHC9AsAAAAJ&hl=en
+  email: azad@sharif.edu
+  img: assets/instructor.jpg
+  class: 'Sundays, Tuesdays / 04:30 PM - 06:00 PM'  
