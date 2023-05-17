@@ -1,1 +1,34 @@
+exams14011:
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1401-1/Final.pdf
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1401-1/Final_sol.pdf
+  - name: Midterm
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1401-1/Midterm.pdf
+  - name: Midterm - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1401-1/Midterm_sol.pdf
+
+exams14002:
+  - name: Midterm
+    link: https://github.com/numerical-computations-sut/Course-Materials/blob/main/Exam/1400-2/Midterm.pdf
+
+exams14001:
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1400-1/Final.pdf
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1400-1/Final_sol.pdf
+  - name: Midterm
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1400-1/Midterm.pdf
+  - name: Midterm - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1400-1/Midterm_sol.pdf
+
+exams13992:
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1399-2/Final.pdf
+  - name: Final
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1399-2/Final_sol.pdf
+  - name: Midterm
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1399-2/Midterm.pdf
+  - name: Midterm - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Exam/1399-2/Midterm_sol.pdf
 
