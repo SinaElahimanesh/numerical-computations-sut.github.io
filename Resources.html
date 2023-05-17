@@ -44,7 +44,7 @@ permalink: /resources/
                 </ul>
             <h3 id="Lecture Slides">1400-2</h3>
             <ul>
-                    {% for item in site.data.resources.lecture14002 %}
+                    {% for item in site.data.resources.lectures.lecture14002 %}
                     <li>{{item.lec}}<br>
                         {% for element in item.resources %}
                             <a href="{{element.resource.link}}" target="_blank">[{{element.resource.type}}]</a>
@@ -55,7 +55,7 @@ permalink: /resources/
             
             <h3 id="Lecture Slides">1401-1</h3>
             <ul>
-                    {% for item in site.data.resources.lecture14011 %}
+                    {% for item in site.data.resources.lectures.lecture14011 %}
                     <li>{{item.lec}}<br>
                         {% for element in item.resources %}
                             <a href="{{element.resource.link}}" target="_blank">[{{element.resource.type}}]</a>
