@@ -1,4 +1,18 @@
 resource: 
-  - topic: Text Book
-    link: https://github.com/linear-algebra-sut/lecture-notes/raw/main/Resources/Strang_G_Linear_algebra_and_its_applications_Brooks_2005_1.pdf
+  - topic: Computational Mathematics
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Source/Computational%20Mathematics-%20Demidovich%2C%20Maron.pdf
 
+  - topic: Numerical Analysis 9th
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Source/Numerical%20Analysis%209th.pdf
+
+
+  - topic: ترجمه کتاب ریاضیات محاسباتی، حمید سربازی آزاد
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Source/%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA%20%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C%D8%8C%20%D8%AD%D9%85%DB%8C%D8%AF%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF.pdf
+
+
+  - topic: محاسبات عددی نیکوکار
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Source/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D8%B9%D8%AF%D8%AF%DB%8C%20%D9%86%DB%8C%DA%A9%D9%88%DA%A9%D8%A7%D8%B1.pdf
+
+
+  - topic: محاسبات عددی نیکوکار، حل
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Source/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D8%B9%D8%AF%D8%AF%DB%8C%20%D9%86%DB%8C%DA%A9%D9%88%DA%A9%D8%A7%D8%B1%D8%8C%20%D8%AD%D9%84.pdf
