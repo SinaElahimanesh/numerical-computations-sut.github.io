@@ -15,7 +15,7 @@ lecture:
     resources:
       - resource:
           type: 'Notes'
-          link: 'https://github.com/numerical-computations-sut/Course-Materials/blob/main/Slide/1401-2/GPU%20Programming.pdf'          
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-2/GPU%20Programming.pdf'          
 
 # (Uncomment the above code to add Lecture 4 and its links.
 #   You can add more lectures & resource in same format.)      
