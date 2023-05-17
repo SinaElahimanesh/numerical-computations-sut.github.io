@@ -16,7 +16,81 @@ lecture:
       - resource:
           type: 'Notes'
           link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-2/GPU%20Programming.pdf'  
+
+
+lecture14011:
+  - lec: 'Chapter 0' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter0.pdf'
           
+  - lec: 'Chapter 1' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter1.pdf'
+          
+  - lec: 'Chapter 2' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter2.pdf'
+
+  - lec: 'Chapter 2+' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter2%2B.pdf'
+
+  - lec: 'Chapter 3' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter3.pdf'
+          
+  - lec: 'Chapter 4' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter4.pdf'
+          
+  - lec: 'Chapter 5' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter5.pdf'
+          
+  - lec: 'Chapter 6' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter6.pdf'
+ 
+   - lec: 'Chapter 7' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter7.pdf'
+   - lec: 'Chapter 8' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter8.pdf'
+          
+  - lec: 'Chapter 8+' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: ' https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter8%2B.pdf'
+          
+  - lec: 'GPU Programming' #edit Topic Name
+    resources:
+      - resource:
+          type: 'Notes'
+          link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/GPU%20Programming.pdf'          
+# (Uncomment the above code to add Lecture 4 and its links.
+#   You can add more lectures & resource in same format.)      
 lecture14002:
   - lec: 'Chapter 1' #edit Topic Name
     resources:
