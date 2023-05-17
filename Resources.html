@@ -29,11 +29,56 @@ permalink: /resources/
                 {%endif%}
                 {% endfor %}
             </ul>
+            
+             <h3 id="Lecture Slides">1401-1</h3>
+            <ul class="lists two-col animate-3" resource="homeworks">
+                {% for item in site.data.resources.assign.assignments14011 %}
+                {% if item.link =='' %}
+                <li>{{item.name}}</li>
+                {% else %}
+                <li><a href="{{item.link}}" target="_blank">{{item.name}}</a></li>
+                {%endif%}
+                {% endfor %}
+            </ul>
+            
+             <h3 id="Lecture Slides">1400-2</h3>
+            <ul class="lists two-col animate-3" resource="homeworks">
+                {% for item in site.data.resources.assign.assignments14002 %}
+                {% if item.link =='' %}
+                <li>{{item.name}}</li>
+                {% else %}
+                <li><a href="{{item.link}}" target="_blank">{{item.name}}</a></li>
+                {%endif%}
+                {% endfor %}
+            </ul>
+
+             <h3 id="Lecture Slides">1400-1</h3>
+            <ul class="lists two-col animate-3" resource="homeworks">
+                {% for item in site.data.resources.assign.assignments14001 %}
+                {% if item.link =='' %}
+                <li>{{item.name}}</li>
+                {% else %}
+                <li><a href="{{item.link}}" target="_blank">{{item.name}}</a></li>
+                {%endif%}
+                {% endfor %}
+            </ul>
+            
+             <h3 id="Lecture Slides">1399-2</h3>
+            <ul class="lists two-col animate-3" resource="homeworks">
+                {% for item in site.data.resources.assign.assignments13992 %}
+                {% if item.link =='' %}
+                <li>{{item.name}}</li>
+                {% else %}
+                <li><a href="{{item.link}}" target="_blank">{{item.name}}</a></li>
+                {%endif%}
+                {% endfor %}
+            </ul>
         </div>
         <br><hr><br>
         <div class="wrap">
             <h2 class="standard-title" id="Lecture Slides">Lecture Slides</h2>
             <p> See <a href="{{site.url}}/{{site.baseurl}}/syllabus">Syllabus</a> for more information.</p>
+              <h3 id="Lecture Slides">1401-2</h3>
                 <ul>
                     {% for item in site.data.resources.lectures.lecture %}
                     <li>{{item.lec}}<br>
