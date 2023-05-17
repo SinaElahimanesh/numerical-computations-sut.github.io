@@ -1,27 +1,56 @@
 syllabus:
-  - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  - heading: Course Topics
+    content: "Calculations related to matrices<br>
+Vectors and drawing <br>
+Files and function definitions <br>
+Familiarity with some internal functions of the desired tool <br>
+An introduction to errors <br>
+Floating point system <br>
+The source of errors <br>
+Relative and absolute errors <br>
+Rounding, inherent and shear errors <br>
+Error propagation and process graph <br>
+Instability in numerical calculations <br>
+An introduction to finding the roots of a non-linear univariate function <br>
+Halving method <br>
+Displacement method <br>
+Chord method or decisive line <br>
+Newton-Raphson method <br>
+Iterative method or fixed point <br>
+Convergence rate of different methods <br>
+Necessary/sufficient conditions for the convergence of Newton-Raphson methods, string method and simple iteration method <br>
+Herner's method for calculating polynomial value <br>
+Generalized Newton-Raphson method for solving the system of nonlinear equations <br>
+Intuitive and mathematical proof of the mentioned methods <br>
+An introduction to interpolation, extrapolation and curve fitting <br>
+Different interpolation methods include Lagrange's method, Newton's divided difference method, Newton's forward, backward and central difference methods. <br>
+Proof of the mentioned methods and error analysis in them <br>
+Fitting to polynomials by least squares method <br>
+Fitting different curves with the help of linearization <br>
+Extrapolation <br>
+An introduction to numerical integration and differentiation <br>
+Various methods of numerical integration include rectangular method, midpoint method, trapezoidal method, Gauss-Legendre method, Simpson 1/3 method, Simpson 3/8 method, and Ramberg method. <br>
+Checking the error rate of the mentioned methods <br>
+Mathematical and intuitive proof for the mentioned methods <br>
+Numerical derivation using different methods including midpoint method, central difference method, three point method <br>
+Analyzing the error order of the mentioned methods and using the concept of Richardson's extrapolation to improve the numerical derivation results. <br>
+An introduction to differential equations <br>
+One-step methods include Taylor's method, Euler's method, modified Euler's method, 2nd-order Rang-Kutta methods (Hyun's method, midpoint and modified Euler), 3rd-order Rang-Kutta and 4th-order Rang-Kutta methods. <br>
+Multi-step methods such as the Adams-Moulton method <br>
+Error analysis of the mentioned methods and their comparison <br>
+Converting differential equations of higher degrees to linear differential equations <br>
+Converting single-step methods of solving linear differential equations into numerical methods that can be used to solve linear differential equations <br>
+An introduction to solving linear equations <br>
+An introduction to matrices <br>
+Direct methods for solving linear equations including inverse matrix method, Kramer method, Gaussian elimination method (progressive, backward and Gauss-Jordan), trigonometric analysis method (LU Choleski, Doolittle and Croat) <br>
+Iterative methods including Jacobi method and Gauss-Seidel method <br>
+Eigenvalues and eigenvectors, the power method to find an estimate of the dominant eigenvalue and its corresponding eigenvector, and Gerch Gorin's theorem"
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
-     <br>"
-
-  - heading: Late Policy  
-    content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
-      Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
-      Suspendisse interdum consectetur libero id faucibus nisl."
+  - heading: Slides  
+    content: "We will post slides on the course website after each lecture."
 
   - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    content: " <ul><li>Assignments: 50% (20% Homework Assignments + 30% Programming Exercises) </li>
+                <li>Midterm Exam: 25%</li>
+                <li>Final Exam: 25%</li></ul>
+     All communicated/handled on CW. "
