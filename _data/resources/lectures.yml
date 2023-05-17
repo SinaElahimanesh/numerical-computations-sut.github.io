@@ -67,12 +67,12 @@ lecture14011:
           type: 'Notes'
           link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter6.pdf'
  
-   - lec: 'Chapter 7' #edit Topic Name
+  - lec: 'Chapter 7' #edit Topic Name
     resources:
       - resource:
           type: 'Notes'
           link: 'https://github.com/numerical-computations-sut/Course-Materials/raw/main/Slide/1401-1/Chapter7.pdf'
-   - lec: 'Chapter 8' #edit Topic Name
+  - lec: 'Chapter 8' #edit Topic Name
     resources:
       - resource:
           type: 'Notes'
