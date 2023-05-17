@@ -12,21 +12,114 @@ assignments14011:
   - name: HW1 - Programming
     link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW1_programming.pdf
   - name: HW1 - Solution
-    link: https://github.com/numerical-computations-sut/Course-Materials/blob/main/Homework/1401-1/HW1_sol.pdf    
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW1_sol.pdf    
     
   - name: HW2
     link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW2.pdf
   - name: HW2 - Programming
     link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW2_programming.pdf   
   - name: HW2 - Solution
-    link: https://github.com/numerical-computations-sut/Course-Materials/blob/main/Homework/1401-1/HW2_sol.pdf    
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW2_sol.pdf    
         
   - name: HW3
     link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW3.pdf
   - name: HW3 - Programming
     link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW3_programming.pdf   
   - name: HW3 - Solution
-    link: https://github.com/numerical-computations-sut/Course-Materials/blob/main/Homework/1401-1/HW3_sol.pdf            
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW3_sol.pdf            
     
   - name: HW4 - Solution
-    link: https://github.com/numerical-computations-sut/Course-Materials/blob/main/Homework/1401-1/HW4_sol.pdf       
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1401-1/HW4_sol.pdf       
+
+
+assignments14002:
+  - name: HW1
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW1.pdf
+  - name: HW1 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW1_sol.pdf    
+    
+  - name: HW2
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW2.pdf 
+  - name: HW2 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW2_sol.pdf    
+        
+  - name: HW3
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW3.pdf 
+  - name: HW3 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW3_sol.pdf            
+    
+  - name: HW4
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW4.pdf 
+  - name: HW3 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW4_sol.pdf      
+    
+  - name: HW5
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW5.pdf 
+  - name: HW5 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW5_sol.pdf   
+    
+  - name: HW6
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW6.pdf 
+  - name: HW6 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-2/HW6_sol.pdf       
+    
+assignments14001:
+  - name: HW1
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW1.pdf
+  - name: HW1 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW1_sol.pdf    
+    
+  - name: HW2
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW2.pdf 
+  - name: HW2 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW2_sol.pdf    
+        
+  - name: HW3
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW3.pdf 
+  - name: HW3 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW3_sol.pdf            
+    
+  - name: HW4
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW4.pdf 
+  - name: HW4 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW4_sol.pdf      
+    
+  - name: HW5
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW5.zip
+  - name: HW5 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW5_sol.zip   
+    
+  - name: HW6
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1400-1/HW6.pdf 
+        
+assignments13992:
+  - name: HW1
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW1.pdf
+  - name: HW1 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW1_sol.pdf    
+    
+  - name: HW2
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW2.pdf 
+  - name: HW2 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW2_sol.pdf    
+        
+  - name: HW3
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW3.pdf 
+  - name: HW3 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW3_sol.pdf            
+    
+  - name: HW4
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW4.pdf 
+  - name: HW3 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW4_sol.pdf      
+    
+  - name: HW5
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW5.pdf 
+  - name: HW5 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW5_sol.pdf   
+    
+  - name: HW6
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW6.pdf 
+  - name: HW6 - Solution
+    link: https://github.com/numerical-computations-sut/Course-Materials/raw/main/Homework/1399-2/HW6_sol.pdf       
+   
